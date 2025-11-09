@@ -1,6 +1,6 @@
 outs:
-- md5: 0cda8d64fcf3746d0fc19b70989861c2.dir
-  size: 4972
-  nfiles: 1
+- md5: 75c413bc2c62fc45bad48ab42e69b465.dir
+  size: 1276224
+  nfiles: 2
   hash: md5
   path: cheese_dataset
