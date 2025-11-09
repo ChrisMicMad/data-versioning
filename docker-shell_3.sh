@@ -29,3 +29,4 @@ docker run --rm --name data-version-cli -ti \
 -v ~/.gitconfig:/etc/gitconfig \
 -e GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS \
 -e GCS_BUCKET_NAME=$GCS_BUCKET_NAME data-version-cli
+
